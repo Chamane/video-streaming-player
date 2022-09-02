@@ -1,2 +1,2 @@
 # video-streaming-player
-hack experiment
+hack experiment and strenghten understanding
